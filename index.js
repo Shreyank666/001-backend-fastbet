@@ -42,7 +42,6 @@ const io = socketIo(server, {
 
 
 port = 5000
-CORS configuration
 
 app.use(
   cors({
